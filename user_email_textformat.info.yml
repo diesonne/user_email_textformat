@@ -1,0 +1,7 @@
+name: 'User Email Textformat'
+type: module
+description: 'User Email Textformat'
+core_version_requirement: ^8 || ^9 || ^10
+package: 'Email'
+dependencies:
+  - ckeditor
