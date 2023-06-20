@@ -1,5 +1,5 @@
 {
-  "name": "drupal/views_fieldsets",
+  "name": "drupal/user_email_textformat",
   "description": "Adds fieldsets to Views.",
   "type": "drupal-module",
   "license": "GPL-2.0-or-later",
